@@ -199,6 +199,7 @@ C++ Benchmark Authoring Library/Framework.
 * [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson and/or JSON files.
 * [json_struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser, parsing directly to and from C++ structs.
 * [daw_json_link](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++
+* [jsonifier](https://github.com/realtimechris/jsonifier) - A few classes for extremely fast json parsing/serializing in modern C++.
 
 ### String formatting & templating
 
